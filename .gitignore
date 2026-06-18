@@ -1,0 +1,8 @@
+# generated HTML output sits next to source .docx, never in this repo
+*.html
+# python/node noise
+__pycache__/
+*.pyc
+node_modules/
+# local browser profile used by validate_paste.js
+oms_profile/
