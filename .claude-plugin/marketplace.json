@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "docx-to-wangeditor",
   "owner": {
-    "name": "StepFun Workshop"
+    "name": "naisi-alibaba"
   },
   "description": "Convert Word (.docx) into HTML that pastes correctly into a wangEditor rich-text editor. 把 Word 文档转成能正确粘进 wangEditor 富文本编辑框的 HTML。",
   "plugins": [
@@ -11,7 +11,7 @@
       "source": "./plugins/docx-to-wangeditor-html",
       "description": "Convert Word (.docx) into clean semantic HTML that pastes correctly into a wangEditor rich-text editor (preserves headings/bold/tables; de-schemes URLs to avoid the paste-flatten bug). 把 Word 转成可直接粘进 wangEditor 富文本编辑器的干净 HTML。",
       "version": "1.0.0",
-      "author": { "name": "StepFun Workshop" },
+      "author": { "name": "naisi-alibaba" },
       "license": "MIT",
       "category": "document-tools",
       "keywords": ["docx", "word", "html", "wangeditor", "rich-text", "paste"]

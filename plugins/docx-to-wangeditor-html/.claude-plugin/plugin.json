@@ -5,8 +5,11 @@
   "version": "1.0.0",
   "description": "Convert Word (.docx) documents into clean semantic HTML that pastes correctly into a wangEditor v4 rich-text editor. Preserves headings/bold/tables and de-schemes URLs to avoid wangEditor's paste-flatten bug. 把 Word 文档转成可直接粘进 wangEditor 富文本编辑器的干净语义化 HTML，保留标题/加粗/表格，并去掉 URL 的 http(s):// 以规避会让整篇塌成纯文本的粘贴坑。",
   "author": {
-    "name": "StepFun Workshop"
+    "name": "naisi-alibaba",
+    "url": "https://github.com/naisi-alibaba"
   },
+  "repository": "https://github.com/naisi-alibaba/docx-to-wangeditor-html",
+  "homepage": "https://github.com/naisi-alibaba/docx-to-wangeditor-html",
   "license": "MIT",
   "keywords": ["docx", "word", "html", "wangeditor", "rich-text", "paste", "contenteditable", "document-conversion", "privacy-policy"]
 }
