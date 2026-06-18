@@ -1,10 +1,10 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
-  "name": "step-skills",
+  "name": "docx-to-wangeditor",
   "owner": {
     "name": "StepFun Workshop"
   },
-  "description": "A small collection of Claude Code skills for document & rich-text-editor workflows. Claude Code 技能集：文档与富文本编辑器相关工作流。",
+  "description": "Convert Word (.docx) into HTML that pastes correctly into a wangEditor rich-text editor. 把 Word 文档转成能正确粘进 wangEditor 富文本编辑框的 HTML。",
   "plugins": [
     {
       "name": "docx-to-wangeditor-html",
