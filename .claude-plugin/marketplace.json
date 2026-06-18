@@ -14,7 +14,8 @@
       "author": { "name": "naisi-alibaba" },
       "license": "MIT",
       "category": "document-tools",
-      "keywords": ["docx", "word", "html", "wangeditor", "rich-text", "paste"]
+      "keywords": ["docx", "word", "html", "wangeditor", "rich-text", "paste"],
+      "tags": ["wangEditor", "docx-to-html", "word-to-html", "rich-text-editor", "paste-fix", "privacy-policy", "隐私政策", "富文本编辑器"]
     }
   ]
 }
